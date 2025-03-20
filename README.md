@@ -1,6 +1,6 @@
 # project_setup_checklists
 
-## typescript:
+## Typescript:
 ### Essential Setup
 
 - ESLint (Configured & Auto-fixed on Save)✔ Prettier (Auto-formats Code)✔ TypeScript Config Optimized (tsconfig.json)✔ Node.js Version Enforced (.nvmrc)✔ Setup Script (setup.sh to automate repo setup)✔ VSCode Settings & Extensions Optimized (.vscode/settings.json)
